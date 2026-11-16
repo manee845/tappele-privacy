@@ -9,7 +9,7 @@ This notice covers the Tappele app for Garmin watches (Connect IQ), which record
 
 ## 1. Controller and contact
 
-Manuel von Allmen, Switzerland, is responsible for the app described here and for handling his own support requests. Contact: [support.tappele@gmail.com](mailto:support.tappele@gmail.com).
+Manuel von Allmen, Switzerland, is responsible for the app described here and for handling his own support requests. Contact: [support@tappele.app](mailto:support@tappele.app).
 
 Data you provide to this app or its developer support is provided to Manuel von Allmen, not Garmin. Garmin does not accept responsibility or liability for that app-specific processing; Garmin's own services and processing are separate.
 
@@ -57,7 +57,7 @@ This notice is published as files in the public GitHub repository manee845/tappe
 
 ## 12. Rights and contact
 
-Contact [support.tappele@gmail.com](mailto:support.tappele@gmail.com) to request access to personal data we process, or correction, deletion, delivery/portability or to raise objections where provided by law. Where processing relies on consent, you may withdraw it for the future. We assess requests under applicable law and may require suitable identification to prevent unauthorized disclosure. The app does not give the developer access to your entire Garmin account. Direct requests about Garmin’s independent processing to Garmin. You may also contact the competent supervisory authority, including the [FDPIC](https://www.edoeb.admin.ch/en) in Switzerland; if you are in the EU or EEA, you may contact the data protection authority of your place of residence or stay. This notice is guided by the Swiss Federal Act on Data Protection and takes the General Data Protection Regulation into account for users in the EU and EEA; it is not legal advice and gives no assurance of legal compliance.
+Contact [support@tappele.app](mailto:support@tappele.app) to request access to personal data we process, or correction, deletion, delivery/portability or to raise objections where provided by law. Where processing relies on consent, you may withdraw it for the future. We assess requests under applicable law and may require suitable identification to prevent unauthorized disclosure. The app does not give the developer access to your entire Garmin account. Direct requests about Garmin’s independent processing to Garmin. You may also contact the competent supervisory authority, including the [FDPIC](https://www.edoeb.admin.ch/en) in Switzerland; if you are in the EU or EEA, you may contact the data protection authority of your place of residence or stay. This notice is guided by the Swiss Federal Act on Data Protection and takes the General Data Protection Regulation into account for users in the EU and EEA; it is not legal advice and gives no assurance of legal compliance.
 
 ## 13. Changes and date
 

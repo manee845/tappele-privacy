@@ -9,7 +9,7 @@ Diese Erklärung gilt für die App Tappele für Garmin-Uhren (Connect IQ), die S
 
 ## 1. Verantwortlicher und Kontakt
 
-Manuel von Allmen, Schweiz, ist für die hier beschriebene App und die Bearbeitung eigener Supportanfragen verantwortlich. Kontakt: [support.tappele@gmail.com](mailto:support.tappele@gmail.com).
+Manuel von Allmen, Schweiz, ist für die hier beschriebene App und die Bearbeitung eigener Supportanfragen verantwortlich. Kontakt: [support@tappele.app](mailto:support@tappele.app).
 
 Daten, die du dieser App oder ihrem Entwicklersupport bereitstellst, stellst du Manuel von Allmen und nicht Garmin bereit. Garmin übernimmt für diese appbezogene Verarbeitung keine Verantwortung oder Haftung; Garmins eigene Dienste und Verarbeitung sind davon getrennt.
 
@@ -57,7 +57,7 @@ Diese Erklärung wird als Dateien im öffentlichen GitHub-Repository manee845/ta
 
 ## 12. Rechte und Kontaktweg
 
-Für Auskunft über durch uns bearbeitete Personendaten sowie gesetzlich vorgesehene Berichtigung, Löschung, Herausgabe/Übertragung oder Einwendungen kannst du dich an [support.tappele@gmail.com](mailto:support.tappele@gmail.com) wenden. Soweit eine Verarbeitung auf Einwilligung beruht, kannst du sie für die Zukunft widerrufen. Wir prüfen Anfragen nach anwendbarem Recht und können zur Vermeidung unbefugter Auskunft eine geeignete Identifikation verlangen. Der Entwickler hat durch die App keinen Zugriff auf dein gesamtes Garmin-Konto. Anfragen zu Garmins eigenständiger Verarbeitung richtest du an Garmin. Du kannst dich auch an die zuständige Datenschutzaufsicht wenden, in der Schweiz den [EDÖB](https://www.edoeb.admin.ch/de); befindest du dich in der EU oder im EWR, kannst du dich an die Datenschutzaufsicht deines Wohn- oder Aufenthaltsorts wenden. Die Erklärung orientiert sich am schweizerischen Datenschutzgesetz und berücksichtigt für Nutzerinnen und Nutzer in der EU und im EWR die Datenschutz-Grundverordnung; sie ist keine Rechtsberatung und keine Zusicherung der Rechtskonformität.
+Für Auskunft über durch uns bearbeitete Personendaten sowie gesetzlich vorgesehene Berichtigung, Löschung, Herausgabe/Übertragung oder Einwendungen kannst du dich an [support@tappele.app](mailto:support@tappele.app) wenden. Soweit eine Verarbeitung auf Einwilligung beruht, kannst du sie für die Zukunft widerrufen. Wir prüfen Anfragen nach anwendbarem Recht und können zur Vermeidung unbefugter Auskunft eine geeignete Identifikation verlangen. Der Entwickler hat durch die App keinen Zugriff auf dein gesamtes Garmin-Konto. Anfragen zu Garmins eigenständiger Verarbeitung richtest du an Garmin. Du kannst dich auch an die zuständige Datenschutzaufsicht wenden, in der Schweiz den [EDÖB](https://www.edoeb.admin.ch/de); befindest du dich in der EU oder im EWR, kannst du dich an die Datenschutzaufsicht deines Wohn- oder Aufenthaltsorts wenden. Die Erklärung orientiert sich am schweizerischen Datenschutzgesetz und berücksichtigt für Nutzerinnen und Nutzer in der EU und im EWR die Datenschutz-Grundverordnung; sie ist keine Rechtsberatung und keine Zusicherung der Rechtskonformität.
 
 ## 13. Änderungen und Stand
 
